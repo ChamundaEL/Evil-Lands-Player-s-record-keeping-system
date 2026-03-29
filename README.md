@@ -16,6 +16,6 @@ That’s it! Every record you add, delete, or edit will automatically be updated
 6. View records by individual tables or view all at once.
 
    
-   ## Download
+## Download
 
-[Click here to download the Player Record Management System](https://github.com/ChamundaEL/Evil-Lands-Player-s-record-keeping-system/blob/main/Evil%20Lands%20Player%20Record%20Keeping%20System.zip)
+[Download Evil Lands Player Record Keeping System.zip](https://github.com/ChamundaEL/Evil-Lands-Player-s-record-keeping-system/raw/main/Evil%20Lands%20Player%20Record%20Keeping%20System.zip)
