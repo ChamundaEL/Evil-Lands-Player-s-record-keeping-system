@@ -14,6 +14,7 @@ That’s it! Every record you add, delete, or edit will automatically be updated
 4. Refresh tables for up-to-date data.  
 5. Quickly add records to any table.  
 6. View records by individual tables or view all at once.
+7. You can change clan's name.
 
    
 ## Download
